@@ -1,4 +1,4 @@
-package com.gtechnog.sample.tivo.ui;
+package com.gtechnog.sample.tivo.utils;
 
 public class Repository {
 }
